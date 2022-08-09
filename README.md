@@ -22,6 +22,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Click this button
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sentanos/ProxyService)
+https://github.com/sentanos/ProxyService)
 
 - Type in whatever name you want.
 - Click "Deploy app". Don't touch any of the variables unless you know what you're doing.
